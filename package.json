@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kira0x1/elis-reader-downloader/issues"
   },
-  "homepage": "https://github.com/kira0x1/elis-reader-downloader#readme"
+  "homepage": "https://github.com/kira0x1/elis-reader-downloader#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
